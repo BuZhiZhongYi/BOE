@@ -6,7 +6,7 @@
       <div style="margin-left: 6px; margin-right: 6px">/</div>
       <div>管理者进阶-腾飞班</div>
       <div style="margin-left: 6px; margin-right: 6px">/</div>
-      <div style="font-weight: 700; font-size: 16px">活动详情</div>
+      <div style="font-weight: 700; font-size: 16px">直播详情</div>
 
       <div class="preNext">
         <button class="btn btn01"></button>
@@ -20,7 +20,7 @@
     <!-- 基本信息 -->
     <div class="bascinfo">
       <div style="margin-left: 46px">
-        <div class="title">【其他活动】管理者进阶腾飞班 - 专属线下活动</div>
+        <div class="title">【直播】管理者进阶腾飞班 - 毕业典礼</div>
         <div class="time" style="margin-top: 26px">
           <img width="15px" height="17px" src="../../assets/image/time.png" />
           <div style="margin-left: 8px">2022-07-20 20:00-21:00</div>
@@ -34,7 +34,19 @@
           <div style="margin-left: 8px">大族广场</div>
         </div>
       </div>
-      <div class="btn">签到</div>
+      <div
+        class="btn"
+        style="margin-right: -660px; background: rgb(59, 191, 252)"
+      >
+        观看
+      </div>
+      <div
+        class="btn"
+        style="margin-right: -660px; background: rgb(57, 146, 249)"
+      >
+        签到
+      </div>
+      <div class="btn">评估</div>
     </div>
     <!-- 基本信息 -->
 
@@ -47,52 +59,90 @@
               <img
                 width="20px"
                 height="20px"
-                src="../../assets/image/book.png"
+                src="../../assets/image/course.png"
               />
-              <div class="text">课程详情</div>
+              <div class="text">课前预习</div>
               <div class="box"></div>
             </div>
             <div style="display: flex; align-items: center">
               <div class="content">
-                写字楼介绍 <br />
-                大族广场写字楼采用国际顶级硬件设施，美国OTIS电梯、麦克维尔中央空调、高端安防系统等商务空间新标准匹配项目在亦庄地标综合体的形象。写字楼空间设计由亚洲著名的
-                室内空间设计大师之一梁景华设计，写字楼群由六栋(T1—T6)呈舰队排列的5A写字楼构成形成独特的舰队造型。
+                通过对各级人员的软件平台培训，使其能够了解如何运用乾元坤和智能信息管理系统来提升企业管理水平，最大限度发挥软件产品在企业中的作用;<br />
+                ● 培训目标
+                <br />1.使企业不同部门人员掌握便捷、有效的系统平台操作方法;<br />
+                2.通过系统平台的培训提高员工对企业的管理理念认识与提升。<br />
+                3.通过系统平台培训加强沟通，统一部署，协同工作，提高效率。
                 <br />
-                购物中心介绍 <br />
-                大族广场Mall&More位于北京经济技术开发区核心商圈荣华路，由荷兰鹿特丹缤纷市场设计师HANS
-                VAN DALEN
-                主持设计,秉持自然与未来和谐共生理念,倡导乐活、有机、绿色环保的生活方式,传递生活美学。
-                <br />
-                大族广场Mall&More汇集众多知名优质品牌,7FRESH生鲜超市、CGV星聚汇影城、中信书店、源力悦体等,集购物、餐饮、娱乐、文化于一体,丰富的业态品类为消费者提供城市
-                生活的第三空间感受。<br />
-                大族广场Mall&More以人为本,不断提升服务水平,升级消费购物体验,致力于营造更加舒适的购物环境与空间,打造有温度的品牌。同时根据春夏秋冬四季策划丰富多样的大型主题
-                活动；为会员设置专属的沙龙活动，打造专属会员日等,与顾客近距离产生情感上的互动与链接,为城市人们提供自由、放松、愉悦的社交空间与精神的栖息地。<br />
+                ●培训对象<br />
+                集团领导、各相关部门领导、总经理、车间主管、车间操作员等;<br />
+              </div>
+            </div>
+
+            <div class="title">
+              <img
+                width="20px"
+                height="20px"
+                src="../../assets/image/write.png"
+              />
+              <div class="text">课后作业</div>
+              <div class="box"></div>
+            </div>
+            <div style="display: flex; align-items: center">
+              <div class="content">
+                <span style="font-weight: 600"
+                  >网易有道词典现有功能结构拆解+问题分析</span
+                ><br />
+                查找资料，介绍一种国外（日本、美国、欧洲）道路（公路、铁路、城市道路、地铁）设计规范的演变过程，可以一种或几种主要技术指标为例，并说明其原因。<br />
               </div>
             </div>
           </div>
         </div>
       </div>
-      <div class="teacher">
-        <div class="title">
-          <img
-            style="width: 24px; height: 20px"
-            src="../../assets/image/call.png"
-          />
-          <div class="text">活动公告</div>
-          <div class="box"></div>
+      <div>
+        <div class="tell">
+          <div class="title">
+            <img
+              style="width: 21px; height: 23px"
+              src="../../assets/image/tv.png"
+            />
+            <div class="text">直播公告</div>
+            <div class="box"></div>
+          </div>
+          <div class="content">
+            当你走进这直播间，我和毛不易老师@毛不易就已
+            经在直播间等你们了!今晚20点30，不见不散!<br />
+          </div>
         </div>
-        <div class="content">
-          为拓宽人民群众的表达途径、畅听民意，及时了解
-          和解决人民群众反映强烈的公共法律服务问题，我
-          局将在浈江区公共法律服务中心开展领导干部接待
-          活动，现将2022年8月的活动安排公告如下：<br />
-          一、接待时间 <br />
-          工作日上午9:00-12:00。<br />
-          二、接待地点<br />
-          浈江区公共法律服务中心（浈江区新韶镇乐土路3号
-          曲仁田螺冲党群服务中心一楼）。<br />
-          三、接待受理范围 <br />（一）听取人民群众对公共法律服务工作的批评和
-          意见建议。 <br />（二）解答或接收公共法律服务相关业务咨询。<br />
+        <div class="teacher">
+          <div class="title">
+            <img
+              style="width: 21px; height: 23px"
+              src="../../assets/image/livelecturer.png"
+            />
+            <div class="text">直播讲师</div>
+            <div class="box"></div>
+          </div>
+          <div
+            v-for="(el, index) in teacher"
+            :key="el.id"
+            class="teacheritem"
+            :style="{
+              'border-bottom':
+                index === teacher.length - 1
+                  ? null
+                  : '1px solid rgba(56, 125, 247, 0.2)',
+            }"
+          >
+            <img class="peopleimg" :src="el.peopleimg" />
+            <div style="margin-left: 17px">
+              <div class="teacherName">
+                <div style="margin-right: 5px">{{ el.name }}</div>
+                <div v-for="(item, key) in el.medal" :key="key">
+                  <img class="teacherMedal" :src="item" />
+                </div>
+              </div>
+              <div class="introduce">{{ el.introduce }}</div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -103,10 +153,33 @@
 <script>
 import { reactive, toRefs } from "vue";
 export default {
-  name: "MoreActive",
+  name: "LiveBroadcast",
   setup() {
     const state = reactive({
       activeName: "first",
+      teacher: [
+        {
+          id: 1,
+          name: "王星天（显示事业）",
+          introduce: "教师是学生的镜子,学生是老师的影子。",
+          peopleimg: require("../../assets/image/img.jpg"),
+          medal: [
+            require("../../assets/image/medal/medal1.png"),
+            require("../../assets/image/medal/medal2.png"),
+            require("../../assets/image/medal/medal3.png"),
+          ],
+        },
+        {
+          id: 2,
+          name: "王星天（显示事业）",
+          introduce: "教师是学生的镜子,学生是老师的影子。",
+          peopleimg: require("../../assets/image/img.jpg"),
+          medal: [
+            require("../../assets/image/medal/medal1.png"),
+            require("../../assets/image/medal/medal2.png"),
+          ],
+        },
+      ],
     });
     const handleClick = (tab, event) => {
       console.log(tab, event);
@@ -180,6 +253,7 @@ export default {
       cursor: pointer;
       margin-right: 96px;
     }
+
     .title {
       font-size: 20px;
       font-weight: 800;
@@ -346,9 +420,9 @@ export default {
         }
       }
     }
-    .teacher {
+    .tell {
       width: 434px;
-      height: 438px;
+      height: 188px;
       // min-height: 557px;
       background-color: rgba(255, 255, 255, 1);
       border-radius: 8px;
@@ -388,6 +462,69 @@ export default {
         font-weight: bold;
         font-family: PingFang-SC-Heavy;
       }
+    }
+  }
+  .teacher {
+    margin-top: 22px;
+    width: 434px;
+    height: 328px;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 8px;
+    .title {
+      display: flex;
+      align-items: center;
+      padding-top: 39px;
+      position: relative;
+      margin-left: 48px;
+    }
+    .title .text {
+      margin-left: 8px;
+      font-size: 16px;
+      color: rgba(51, 51, 51, 1);
+      font-weight: 800;
+    }
+    .title .box {
+      width: 75px;
+      height: 10px;
+      background-color: rgba(36, 120, 255, 0.15);
+      position: absolute;
+      left: 23px;
+      top: 53px;
+    }
+    .teacheritem {
+      margin-left: 48px;
+      margin-right: 48px;
+      // min-height: 115px;
+      padding: 25px 0px;
+      display: flex;
+      align-items: center;
+    }
+    .teacheritem .peopleimg {
+      width: 60px;
+      height: 60px;
+      border-radius: 30px;
+    }
+    .teacheritem .teacherName {
+      font-size: 14px;
+      font-weight: bold;
+      color: #394145;
+      display: flex;
+      align-items: center;
+      width: 260px;
+    }
+    .teacheritem .teacherName .teacherMedal {
+      width: 17px;
+      height: 19px;
+      margin-right: 4px;
+      display: flex;
+      align-items: center;
+    }
+    .teacheritem .introduce {
+      width: 260px;
+      font-size: 14px;
+      font-weight: 500;
+      color: #394145;
+      margin-top: 14px;
     }
   }
 }
