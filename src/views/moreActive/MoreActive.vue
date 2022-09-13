@@ -132,7 +132,7 @@ export default {
   .preNext {
     position: absolute;
     top: 30px;
-    left: 1710px;
+    left: 1500px;
     .content {
       font-size: 14px;
       color: #fff;
