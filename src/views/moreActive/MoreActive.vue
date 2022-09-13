@@ -127,12 +127,12 @@ export default {
     display: flex;
     font-size: 14px;
     line-height: 24px;
+    position: relative;
   }
 
   .preNext {
     position: absolute;
-    top: 30px;
-    left: 1500px;
+    right: 0px;
     .content {
       font-size: 14px;
       color: #fff;
