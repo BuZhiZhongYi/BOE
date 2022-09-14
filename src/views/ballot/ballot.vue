@@ -91,6 +91,7 @@
                 height="20px"
                 src="../../assets/image/yuan.png"
               />
+
               <div class="text">投票说明</div>
               <div class="box"></div>
             </div>
